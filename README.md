@@ -16,7 +16,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Minhas Principais Habilidades
 <div align="center">  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>
@@ -35,7 +35,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contate-me 
 <div align="center">
 <a href="https://github.com/eujeffoliveira" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -48,21 +48,16 @@
 </a>  
 </div>  
   
-
 <br/>  
 
 
-## Visitor Counter  
+## GitHub Status 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=eujeffoliveira&&style=flat-square" align="center" />
 </div>  
   
 
-<div align="center">
-            <a href="https://paypal.me/jjso@outlook.com" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
+<img src="https://github-readme-stats.vercel.app/api?username=eujeffoliveira&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujeffoliveira&hide_border=true&layout=compact" align="right" /></div>
 <br />
