@@ -4,7 +4,7 @@
 
 - 🔭 Development and maintenance of On-premises systems in C# and ASP.Net.
   
-- 🌱 Currently learning Python and Machine Learning.
+- 🌱 Currently learning SSIS, SSAS, Python and Machine Learning.
   
 - ❓ Ask me about SQL, R, Excel, Power BI, Tableau.
 
